@@ -14,6 +14,8 @@ Udacity's course _Writing READMEs_ explains the importance of documenting your w
 * [can.viewify](https://github.com/zkat/can.viewify) - Awesome example of someone documenting her personal projects concisely.
 * [create-your-own-adventure](https://github.com/udacity/create-your-own-adventure) - This README for Udacity's Git and Github course
 
+[How To Write A Great README](https://robots.thoughtbot.com/how-to-write-a-great-readme)
+
 ## How to Contribute
 
 Find any typos? Have another resource you think should be included? Contributions are welcome!
